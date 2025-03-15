@@ -1,0 +1,15 @@
+Date- 12.03.2025
+Practical No- 04
+Problem specification- Insert a line break in the sentence and print it
+Implementation- 
+class StudentsDetails
+{
+	public static void main(String args[])
+	{
+		System.out.println("First Name :Danshika \nLast Name :Jegatheeswaran \nAddress :Uthayanagar East,Kilinochchi");
+	}
+}
+Output- First Name: Danshikma
+        Last Name: Jegatheeswaran
+        Address: Uthayanagar East,Kilinochchi
+Conclusion- How to use \n in java
