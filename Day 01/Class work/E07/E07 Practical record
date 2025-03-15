@@ -1,0 +1,20 @@
+Date- 12.03.2025
+Practical No- 07
+Problem Specification- perform +,-,%
+Implementation- 
+class E07
+{
+	public static void main(String args[])
+	{
+		int a=2;
+		int b=3;
+		
+		System.out.println("The addition is:"+(a+b));
+		System.out.println("The subsraction is:"+(b-a));
+		System.out.println("The modulas is:"+(b%a));
+	}
+}
+Output- The addition is:5
+        The substraction is:1
+        The modulas is:1
+Coclusion- learnt how to use operators
