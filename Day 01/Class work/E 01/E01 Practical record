@@ -1,0 +1,16 @@
+Date- 12.03.2025
+Practical No- 01
+Problem Specification- print my first java program
+                       Hello java developers!!!
+Implementation-
+class Myfirstwork
+{
+	public static void main(String[]args)
+	{
+		System.out.println("My first program");
+		System.out.println("Hello java developers !!!");
+	}
+}
+Output- My first program
+        Hello java developers!!!
+Conclusion- Learnt how to print a sentence in java
