@@ -1,0 +1,27 @@
+Date- 12.03.2025
+Practical No- 06
+Problem specification- print the details
+Implementation- 
+class StuDetails
+{
+	public static void main(String arg[])
+	{
+		System.out.println("Name: Danshika Jegatheeswaran");
+		System.out.println("Registration Number:2022/ASP/85");
+		System.out.println("DegreeProgram:Bsc.Computer Science");
+		System.out.println();
+		
+		String Name="Danshika Jegatheeswaran";
+		String RegNo="2022/ASP/85";
+		String Degree="Bsc.Computer Science";
+		
+		System.out.println("Full Name : "+	Name);
+		System.out.println("Registration Number:"+RegNo);
+		System.out.println("Degree Program:"+Degree);
+	}
+}
+		
+Output-  Full Name: Danshika Jegatheeswaran
+         Registration Number:2022/ASP/85
+         Degree Program:Bsc.Computer Science
+Conclusion- Details are defined as string
