@@ -1,0 +1,27 @@
+Date- 12.03.2025
+Practical N0- 01
+Problem Specification- perform the all operators
+Implementation- 
+class Q01
+{
+	public static void main(String args[])
+	{
+		int a=10;
+		int b=8;
+		int c=2;
+		int d=a+b+c;
+		System.out.println("d is:"+d);
+		
+		if(a>b&&b>c)
+		{
+			System.out.println("c is minimum number");
+		}
+		else
+		{
+			System.out.println("c is not minimum number");
+		}
+	}
+}
+Output- d is:20
+        c is minimum number
+Conclusion- learnt how to use operators
